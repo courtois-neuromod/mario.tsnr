@@ -1,0 +1,5 @@
+[submodule "sourcedata/mario.fmriprep"]
+	path = sourcedata/mario.fmriprep
+	url = https://github.com/courtois-neuromod/mario.fmriprep
+	datalad-id = c1c43979-a83d-42b7-9508-4fface179af8
+	datalad-url = https://github.com/courtois-neuromod/mario.fmriprep
